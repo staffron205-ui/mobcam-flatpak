@@ -1,3 +1,10 @@
+# Mobcam Flatpak
+
+
+This will be my Flatpak version of both Mobcam OBS Plugin and Mobcam Virtual Camera,
+#
+# Original README
+
 # Mobcam
 
 <p align="center">
